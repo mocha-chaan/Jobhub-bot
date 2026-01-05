@@ -50,7 +50,6 @@ const verificationCooldown = new Map();
 // ⏱ Cooldown time (in ms)
 const VERIFICATION_COOLDOWN = 5 * 60 * 1000;
 
-
 // ==========================
 // 🟢 READY
 // ==========================
