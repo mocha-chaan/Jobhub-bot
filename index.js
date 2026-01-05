@@ -26,7 +26,7 @@ const client = new Client({
 // ==========================
 // 🔑 CONFIG
 // ==========================
-const TOKEN = process.env.TOKEN;
+client.login(process.env.TOKEN);
 
 // 📘 Channels
 const MANUAL_VERIFICATION_CHANNEL_ID = "1456615041766916239";
