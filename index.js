@@ -11,6 +11,8 @@ const {
   ButtonStyle
 } = require("discord.js");
 
+const TOKEN = process.env.TOKEN;
+
 // ==========================
 // 🔐 CLIENT SETUP
 // ==========================
